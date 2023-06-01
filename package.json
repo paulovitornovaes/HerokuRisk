@@ -9,9 +9,7 @@
     "serve": "npm run build && vite preview"
   },
   "dependencies": {
-    "vite": "^4.3.2"
-  },
-  "devDependencies": {
+    "vite": "^4.3.2",
     "typescript": "^5.0.2"
   }
 }
