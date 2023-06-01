@@ -6,10 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "serve": "npm run build && vite preview --host 0.0.0.0 --port $PORT"
+    "serve": "node src/socket-back.js && tsc && vite build && vite preview --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
-    "vite": "^4.3.2",
-    "typescript": "^5.0.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2"
   }
 }
