@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node src/socket-back.js",
     "build": "tsc && vite build",
-    "serve": "concurrently \"node src/socket-back.js\" \"tsc && vite build && vite preview --host 0.0.0.0 --port $PORT\""
+    "serve": "concurrently \"tsc && vite build\" \"node src/socket-back.js\""
   },
   "dependencies": {
     "concurrently": "^8.1.0",
