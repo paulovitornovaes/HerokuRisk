@@ -5,7 +5,7 @@ import http from "http";
 import { Server } from "socket.io";
 
 const app = express();
-const porta = process.env.porta || 3000;
+const porta = process.env.PORT || 3000;
 
 const caminhoAtual = url.fileURLToPath(import.meta.url);
 const diretorioPublico = path.join(caminhoAtual, "../..", "public");
