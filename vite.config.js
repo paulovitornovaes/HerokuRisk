@@ -8,14 +8,14 @@ export default defineConfig({
     outDir: 'dist',
     rollupOptions: {
       input: {
-        main: resolve(__dirname, 'public/index.html'), // Caminho para o seu index.html dentro da pasta public
+        main: resolve(__dirname, 'src/index.html'), // Caminho para o seu index.html dentro da pasta src
       },
       output: {
         entryFileNames: '[name].js',
       },
     },
     onEnd: () => {
-      copy('public', 'dist'); // Copiar todos os arquivos estáticos da pasta public para a pasta dist
+      copy('src', 'dist'); // Copiar todos os arquivos estáticos da pasta src para a pasta dist
     },
   },
 });

@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node public/socket-back.js",
+    "dev": "node src/socket-back.js",
     "build": "tsc && vite build",
-    "serve": "concurrently \"tsc && vite build\" \"node public/socket-back.js\""
+    "serve": "concurrently \"tsc && vite build\" \"node src/socket-back.js\""
   },
   "dependencies": {
     "concurrently": "^8.1.0",

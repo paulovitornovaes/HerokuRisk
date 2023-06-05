@@ -8,8 +8,8 @@ const app = express();
 const porta = process.env.PORT || 3000;
 
 const caminhoAtual = url.fileURLToPath(import.meta.url);
-const diretorioPublico = path.join(caminhoAtual, "../..", "public");
-app.use(express.static(diretorioPublico));
+const diretorioSrc = path.join(caminhoAtual, "../..", "src");
+app.use(express.static(diretorioSrc));
 
 const servidorHttp = http.createServer(app);
 
