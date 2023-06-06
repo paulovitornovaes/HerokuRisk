@@ -1,0 +1,119 @@
+
+<form action="" id="inicializar">
+    <h3>Escreva o nome dos jogadores</h3>
+    <fieldset name="player1">
+        <label for="player1.name" >Player 1</label>
+        <input type="text" name="player1.name" id="player1">
+        <label for="player1.ia">IA</label>
+        <input type="checkbox" value='true' name="player1.ia" id="player1.ia">
+        <input type='hidden' value='false' name='player1.ia'> 
+        <select readonly style="background-color: black;color:white" name="player1.color" id="">
+            <option selected value="black">Preto</option>
+            <option value="blue">Azul</option>
+            <option value="red">Vermelho</option>
+            <option value="yellow">Amarelo</option>
+            <option value="green">Verde</option>
+            <option value="pink">Rosa</option>
+        </select>
+    </fieldset>
+
+    <fieldset name="player2">
+        <label for="player2.name">Player 2</label>
+        <input type="text"  name="player2.name" id="player2">
+        <label for="ia">IA</label>
+        <input type="checkbox" value='true' name="player2.ia" id="player2.ia">
+        <input type='hidden' value='false' name='player2.ia'>
+        <select readonly style="background-color: blue;color:white"  name="player2.color" id="">
+            <option value="black">Preto</option>
+            <option selected value="blue">Azul</option>
+            <option value="red">Vermelho</option>
+            <option value="yellow">Amarelo</option>
+            <option value="green">Verde</option>
+            <option value="pink">Rosa</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="player3">Player 3</label>
+        <input type="text" name="player3.name" id="player3">
+        <label for="player3ia">IA</label>
+        <input type="checkbox" value='true' name="player3.ia" id="player3.ia">
+        <input type='hidden' value='false' name='player3.ia'>
+        <select readonly style="background-color: red;color:white"  name="player3.color" id="">
+            <option value="black">Preto</option>
+            <option value="blue">Azul</option>
+            <option selected value="red">Vermelho</option>
+            <option value="yellow">Amarelo</option>
+            <option value="green">Verde</option>
+            <option value="pink">Rosa</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="player4">Player 4</label>
+        <input type="text" name="player4.name" id="player4">
+        <label for="player4ia">IA</label>
+        <input type="checkbox" value='true' name="player4.ia" id="player4.ia">
+        <input type='hidden' value='false' name='player4.ia'>
+        <select style="background-color: yellow;color:black"  readonly name="player4.color" id="">
+            <option value="black">Preto</option>
+            <option value="blue">Azul</option>
+            <option value="red">Vermelho</option>
+            <option selected value="yellow">Amarelo</option>
+            <option value="green">Verde</option>
+            <option value="pink">Rosa</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="player5">Player 5</label>
+        <input type="text" name="player5.name" id="player5">
+        <label for="player5.ia">IA</label>
+        <input type="checkbox" value='true' name="player5.ia" id="player5.ia">
+        <input type='hidden' value='false' name='player5.ia'>
+        <select readonly style="background-color: green;color:white"  name="player5.color" id="">
+            <option value="black">Preto</option>
+            <option value="blue">Azul</option>
+            <option value="red">Vermelho</option>
+            <option value="yellow">Amarelo</option>
+            <option selected value="green">Verde</option>
+            <option value="pink">Rosa</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="player6">Player 6</label>
+        <input type="text" name="player6.name" id="player6">
+        <label for="player6.ia">IA</label>
+        <input type="checkbox" value='true' name="player6.ia" id="player6.ia">
+        <input type='hidden' value='false' name='player6.ia'>
+        <select readonly style="background-color: pink;color:black"  name="player6.color" id="">
+            <option value="black">Preto</option>
+            <option value="blue">Azul</option>
+            <option value="red">Vermelho</option>
+            <option value="yellow">Amarelo</option>
+            <option value="green">Verde</option>
+            <option selected value="pink">Rosa</option>
+        </select>
+    </fieldset> 
+    <br>
+    <input type="submit" value="Iniciar">
+</form>
+
+<style>
+    *{
+        font-size: 0.9rem;
+    }
+    form{
+        background-color: #cecece77;
+        border-radius: 8px;
+    }
+    h3 {
+        /* font-size: 0.7rem; */
+    }
+    input[type="text"]{
+        width: 80px;
+        
+    }
+    select{
+        width: 60px;
+        pointer-events: none;
+        touch-action: none;
+    }
+</style>

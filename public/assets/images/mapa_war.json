@@ -1,0 +1,395 @@
+{ "frames": {
+   "australia": {
+    "frame": { "x": 550, "y": 1, "w": 166, "h": 148 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1011, "y": 415, "w": 164, "h": 146 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "nova-guine": {
+    "frame": { "x": 733, "y": 540, "w": 139, "h": 63 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1085, "y": 353, "w": 137, "h": 61 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "borneo": {
+    "frame": { "x": 192, "y": 630, "w": 69, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1009, "y": 334, "w": 67, "h": 55 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "sumatra": {
+    "frame": { "x": 688, "y": 604, "w": 84, "h": 66 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 952, "y": 339, "w": 82, "h": 64 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "madagascar": {
+    "frame": { "x": 826, "y": 216, "w": 32, "h": 61 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 732, "y": 420, "w": 30, "h": 59 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "africa-do-sul": {
+    "frame": { "x": 154, "y": 286, "w": 122, "h": 131 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 604, "y": 391, "w": 120, "h": 129 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "sudao": {
+    "frame": { "x": 550, "y": 150, "w": 122, "h": 181 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 647, "y": 259, "w": 120, "h": 179 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "congo": {
+    "frame": { "x": 623, "y": 459, "w": 109, "h": 111 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 593, "y": 314, "w": 107, "h": 109 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "egito": {
+    "frame": { "x": 579, "y": 571, "w": 108, "h": 62 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 595, "y": 214, "w": 106, "h": 60 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "argelia": {
+    "frame": { "x": 379, "y": 1, "w": 170, "h": 161 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 485, "y": 195, "w": 168, "h": 159 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "argentina": {
+    "frame": { "x": 1, "y": 378, "w": 84, "h": 160 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 266, "y": 444, "w": 82, "h": 158 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "brasil": {
+    "frame": { "x": 214, "y": 1, "w": 164, "h": 174 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 249, "y": 341, "w": 162, "h": 172 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "bolivia": {
+    "frame": { "x": 277, "y": 300, "w": 121, "h": 132 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 217, "y": 357, "w": 119, "h": 130 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "venezuela": {
+    "frame": { "x": 462, "y": 532, "w": 116, "h": 77 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 226, "y": 308, "w": 114, "h": 75 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "india": {
+    "frame": { "x": 717, "y": 1, "w": 154, "h": 148 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 796, "y": 190, "w": 152, "h": 146 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "vietna": {
+    "frame": { "x": 247, "y": 507, "w": 77, "h": 122 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 932, "y": 237, "w": 75, "h": 120 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "china": {
+    "frame": { "x": 1, "y": 1, "w": 212, "h": 141 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 841, "y": 142, "w": 210, "h": 139 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "oriente-medio": {
+    "frame": { "x": 673, "y": 150, "w": 152, "h": 134 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 659, "y": 174, "w": 150, "h": 132 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "japao": {
+    "frame": { "x": 826, "y": 150, "w": 38, "h": 65 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1071, "y": 159, "w": 36, "h": 63 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "mongolia": {
+    "frame": { "x": 673, "y": 285, "w": 187, "h": 87 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 880, "y": 123, "w": 185, "h": 85 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "tchita": {
+    "frame": { "x": 86, "y": 493, "w": 160, "h": 67 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 879, "y": 79, "w": 158, "h": 65 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "aral": {
+    "frame": { "x": 485, "y": 442, "w": 137, "h": 89 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 731, "y": 116, "w": 135, "h": 87 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "vladivostok": {
+    "frame": { "x": 1, "y": 259, "w": 152, "h": 118 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1009, "y": 56, "w": 150, "h": 116 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "siberia": {
+    "frame": { "x": 309, "y": 433, "w": 175, "h": 73 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 885, "y": 42, "w": 173, "h": 71 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "dudinka": {
+    "frame": { "x": 399, "y": 300, "w": 121, "h": 118 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 798, "y": 29, "w": 119, "h": 116 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "omsk": {
+    "frame": { "x": 521, "y": 332, "w": 127, "h": 109 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 749, "y": 46, "w": 125, "h": 107 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "moscou": {
+    "frame": { "x": 379, "y": 163, "w": 147, "h": 136 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 635, "y": 55, "w": 145, "h": 134 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "italia": {
+    "frame": { "x": 446, "y": 610, "w": 88, "h": 57 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 582, "y": 143, "w": 86, "h": 55 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "alemanha": {
+    "frame": { "x": 325, "y": 623, "w": 78, "h": 51 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 571, "y": 107, "w": 76, "h": 49 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "suecia": {
+    "frame": { "x": 773, "y": 604, "w": 85, "h": 63 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 581, "y": 53, "w": 83, "h": 61 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "franca": {
+    "frame": { "x": 809, "y": 373, "w": 67, "h": 67 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 523, "y": 134, "w": 65, "h": 65 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "inglaterra": {
+    "frame": { "x": 86, "y": 378, "w": 43, "h": 35 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 526, "y": 104, "w": 41, "h": 33 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "islandia": {
+    "frame": { "x": 154, "y": 259, "w": 30, "h": 13 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 493, "y": 71, "w": 28, "h": 11 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "groenlandia": {
+    "frame": { "x": 649, "y": 373, "w": 159, "h": 85 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 378, "y": 11, "w": 157, "h": 83 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "mackenzie": {
+    "frame": { "x": 86, "y": 433, "w": 222, "h": 59 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 98, "y": 39, "w": 220, "h": 57 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "alasca": {
+    "frame": { "x": 325, "y": 507, "w": 136, "h": 66 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 52, "w": 134, "h": 64 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "labrador": {
+    "frame": { "x": 1, "y": 561, "w": 99, "h": 82 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 267, "y": 86, "w": 97, "h": 80 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "ottawa": {
+    "frame": { "x": 101, "y": 561, "w": 90, "h": 78 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 192, "y": 96, "w": 88, "h": 76 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "vancouver": {
+    "frame": { "x": 325, "y": 574, "w": 120, "h": 48 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 101, "y": 96, "w": 118, "h": 46 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "california": {
+    "frame": { "x": 733, "y": 459, "w": 118, "h": 80 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 81, "y": 143, "w": 116, "h": 78 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "nova-iorque": {
+    "frame": { "x": 197, "y": 176, "w": 178, "h": 109 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 133, "y": 142, "w": 176, "h": 107 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   },
+   "mexico": {
+    "frame": { "x": 1, "y": 143, "w": 195, "h": 115 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 93, "y": 216, "w": 193, "h": 113 },
+    "sourceSize": { "w": 1227, "h": 628 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3-rc2-x64",
+  "image": "mapa_war.png",
+  "format": "I8",
+  "size": { "w": 876, "h": 687 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "australia", "opacity": 255, "blendMode": "normal", "data": "id=42" },
+   { "name": "nova-guine", "opacity": 255, "blendMode": "normal", "data": "id=41" },
+   { "name": "borneo", "opacity": 255, "blendMode": "normal", "data": "id=40" },
+   { "name": "sumatra", "opacity": 255, "blendMode": "normal", "data": "id=39" },
+   { "name": "madagascar", "opacity": 255, "blendMode": "normal", "data": "id=38" },
+   { "name": "africa-do-sul", "opacity": 255, "blendMode": "normal", "data": "id=37" },
+   { "name": "sudao", "opacity": 255, "blendMode": "normal", "data": "id=36" },
+   { "name": "congo", "opacity": 255, "blendMode": "normal", "data": "id=35" },
+   { "name": "egito", "opacity": 255, "blendMode": "normal", "data": "id=34" },
+   { "name": "argelia", "opacity": 255, "blendMode": "normal", "data": "id=33" },
+   { "name": "argentina", "opacity": 255, "blendMode": "normal", "data": "id=32" },
+   { "name": "brasil", "opacity": 255, "blendMode": "normal", "data": "id=31" },
+   { "name": "bolivia", "opacity": 255, "blendMode": "normal", "data": "id=30" },
+   { "name": "venezuela", "opacity": 255, "blendMode": "normal", "data": "id=29" },
+   { "name": "india", "opacity": 255, "blendMode": "normal", "data": "id=28" },
+   { "name": "vietna", "opacity": 255, "blendMode": "normal", "data": "id=27" },
+   { "name": "china", "opacity": 255, "blendMode": "normal", "data": "id=26" },
+   { "name": "oriente-medio", "opacity": 255, "blendMode": "normal", "data": "id=25" },
+   { "name": "japao", "opacity": 255, "blendMode": "normal", "data": "id=24" },
+   { "name": "mongolia", "opacity": 255, "blendMode": "normal", "data": "id=23" },
+   { "name": "tchita", "opacity": 255, "blendMode": "normal", "data": "id=22" },
+   { "name": "aral", "opacity": 255, "blendMode": "normal", "data": "id=21" },
+   { "name": "vladivostok", "opacity": 255, "blendMode": "normal", "data": "id=20" },
+   { "name": "siberia", "opacity": 255, "blendMode": "normal", "data": "id=19" },
+   { "name": "dudinka", "opacity": 255, "blendMode": "normal", "data": "id=18" },
+   { "name": "omsk", "opacity": 255, "blendMode": "normal", "data": "id=17" },
+   { "name": "moscou", "opacity": 255, "blendMode": "normal", "data": "id=16" },
+   { "name": "italia", "opacity": 255, "blendMode": "normal", "data": "id=15" },
+   { "name": "alemanha", "opacity": 255, "blendMode": "normal", "data": "id=14" },
+   { "name": "suecia", "opacity": 255, "blendMode": "normal", "data": "id=13" },
+   { "name": "franca", "opacity": 255, "blendMode": "normal", "data": "id=12" },
+   { "name": "inglaterra", "opacity": 255, "blendMode": "normal", "data": "id=11" },
+   { "name": "islandia", "opacity": 255, "blendMode": "normal", "data": "id=10" },
+   { "name": "groenlandia", "opacity": 255, "blendMode": "normal", "data": "id=9" },
+   { "name": "mackenzie", "opacity": 255, "blendMode": "normal", "data": "id=8" },
+   { "name": "alasca", "opacity": 255, "blendMode": "normal", "data": "id=7" },
+   { "name": "labrador", "opacity": 255, "blendMode": "normal", "data": "id=6" },
+   { "name": "ottawa", "opacity": 255, "blendMode": "normal", "data": "id=5" },
+   { "name": "vancouver", "opacity": 255, "blendMode": "normal", "data": "id=4" },
+   { "name": "california", "opacity": 255, "blendMode": "normal", "data": "id=3" },
+   { "name": "nova-iorque", "opacity": 255, "blendMode": "normal", "data": "id=2" },
+   { "name": "mexico", "opacity": 255, "blendMode": "normal", "data": "id=1" }
+  ],
+  "slices": [
+  ]
+ }
+}

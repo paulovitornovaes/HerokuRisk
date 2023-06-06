@@ -1,0 +1,45 @@
+{ "frames": {
+   "Sprite-ui.ase": {
+    "frame": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.2-973d0e3d-SDL",
+  "image": "C:\\Users\\Rafaela\\Documents\\trabalho de ger proj\\vite-ts-phaser-starter\\public\\assets\\images\\Sprite-ui.png",
+  "format": "RGBA8888",
+  "size": { "w": 512, "h": 512 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "soldado", "opacity": 255, "blendMode": "normal" },
+   { "name": "pessoa", "opacity": 255, "blendMode": "normal" },
+   { "name": "computador", "opacity": 255, "blendMode": "normal" },
+   { "name": "container principal", "opacity": 255, "blendMode": "normal" },
+   { "name": "botao1", "opacity": 255, "blendMode": "normal" },
+   { "name": "turno", "opacity": 255, "blendMode": "normal" },
+   { "name": "objetivo", "opacity": 255, "blendMode": "normal" },
+   { "name": "cartas", "opacity": 255, "blendMode": "normal" },
+   { "name": "localizacao", "opacity": 255, "blendMode": "normal" },
+   { "name": "close", "opacity": 255, "blendMode": "normal" },
+   { "name": "volume", "opacity": 255, "blendMode": "normal" },
+   { "name": "volume off", "opacity": 255, "blendMode": "normal" },
+   { "name": "musica", "opacity": 255, "blendMode": "normal" },
+   { "name": "musica off", "opacity": 255, "blendMode": "normal" },
+   { "name": "seta direita", "opacity": 255, "blendMode": "normal" },
+   { "name": "seta esquerda", "opacity": 255, "blendMode": "normal" },
+   { "name": "bloqueado", "opacity": 255, "blendMode": "normal" },
+   { "name": "sair", "opacity": 255, "blendMode": "normal" },
+   { "name": "certo", "opacity": 255, "blendMode": "normal" },
+   { "name": "tabela_troca", "opacity": 255, "blendMode": "normal" },
+   { "name": "carta_objetivo", "opacity": 255, "blendMode": "normal" },
+   { "name": "jogador", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
