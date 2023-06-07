@@ -1,13 +1,6 @@
-// import { FirstGameScene } from './first-scene';
 import Phaser from 'phaser';
-// import './reset.css';
 import './style.css';
-import { MainGameScene } from './main-scene';
-// import { GamePlayer } from './model/GamePlayer';
 import PreloadScene from './scenes/PreloadScene';
-import TurnControllerScene from './scenes/TurnControllerScene';
-import InitGameScene from "./scenes/InitGameScene"
-import ShowUIScene from './scenes/ShowUIScene';
 
 const config: Phaser.Types.Core.GameConfig = {
     width: 1227,
@@ -18,7 +11,7 @@ const config: Phaser.Types.Core.GameConfig = {
     dom: {
       createContainer: true,
     },
-    scene: [PreloadScene, MainGameScene,TurnControllerScene, InitGameScene, ShowUIScene]
+    scene: [PreloadScene]
   };
 
 export class WarGame extends Phaser.Game{
